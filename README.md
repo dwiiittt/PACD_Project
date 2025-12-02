@@ -69,3 +69,6 @@ Penelitian ini menggunakan dataset publik **"Tuberculosis (TB) Chest X-ray Datab
 | **Jumlah Total** | **4.200** |
 
 Dataset dibagi menjadi **80% data pelatihan** dan **20% data pengujian**.
+
+## 🌍 Website
+Aplikasi hasil penelitian ini dapat dilihat di https://screeningtb.streamlit.app/
